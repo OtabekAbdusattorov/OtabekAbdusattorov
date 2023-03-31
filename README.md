@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @OtabekAbdusattorov
-- 👀 I’m interested in Web Development, Data Science
-- 🌱 I’m currently learning Web development and Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Via telegram: @Otabek_Abdusattorov
+- 👀 I’m interested in Data Science
 
 <!---
 OtabekAbdusattorov/OtabekAbdusattorov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
